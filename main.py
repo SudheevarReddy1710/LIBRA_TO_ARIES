@@ -3,7 +3,7 @@ import time
 import math
 import turtle as tur
 turtle.screensize(1080,1080)
-tur.title("INITIAL")
+tur.title("LIBRA TO ARIES")
 
 tur.write("               SPECIALLY FOR U KANNALU!!!!        ", align="left",font=("Verdana",10,"bold" ))
 
